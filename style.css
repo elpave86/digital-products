@@ -1,3 +1,23 @@
 *{
     cursor: cell;
 }
+.container{
+    display: flex;
+    height: 500px;
+    border: 10px solid black;
+    justify-content: space-around;
+    align-items: center;
+
+}
+.box{
+    background-color: blue;
+    padding: 20px;
+    height: 110px;
+    width: 110px;
+}
+.box1{
+    background-color: blueviolet;
+}
+.box2{
+    background-color: rgb(85, 163, 7);
+}
